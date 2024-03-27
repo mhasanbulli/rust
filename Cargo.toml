@@ -2,4 +2,4 @@
 
 resolver = "2"
 
-members = [ "arrays", "guessing_game", "hello_cargo", "hello_world", "variables"]
+members = [ "arrays", "functions", "guessing_game", "hello_cargo", "variables"]
